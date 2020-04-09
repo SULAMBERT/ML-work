@@ -60,3 +60,6 @@ python data/data_cleaning/dataMain.py
 
 This will take 20-25 mins to do all data pre-processing and then create a `final_data.csv` file in `data/data_cleaning` folder
 
+`final_data.csv` is not exposed but 
+the sample data points format given in `final_data_sample.csv` 
+
