@@ -60,5 +60,3 @@ python data/data_cleaning/dataMain.py
 
 This will take 20-25 mins to do all data pre-processing and then create a `final_data.csv` file in `data/data_cleaning` folder
 
-### To scp data from local to remote server
-scp -r  /Users/Upasana/Documents/roundglass_repos/feedanalyticsservice/data/data_cleaning/final_data.csv upasana.mittal@13.232.176.92:/home/upasana.mittal/feedanalytics/feedanalyticsservice/data/data_cleaning/
